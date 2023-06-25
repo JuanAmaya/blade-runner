@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/blade-runner/static/css/main.64324757.css",
-    "main.js": "/blade-runner/static/js/main.d30d4be3.js",
+    "main.js": "/blade-runner/static/js/main.606c6339.js",
     "index.html": "/blade-runner/index.html",
     "main.64324757.css.map": "/blade-runner/static/css/main.64324757.css.map",
-    "main.d30d4be3.js.map": "/blade-runner/static/js/main.d30d4be3.js.map"
+    "main.606c6339.js.map": "/blade-runner/static/js/main.606c6339.js.map"
   },
   "entrypoints": [
     "static/css/main.64324757.css",
-    "static/js/main.d30d4be3.js"
+    "static/js/main.606c6339.js"
   ]
 }
