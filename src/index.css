@@ -73,6 +73,10 @@ code {
       "eight eight four seven"
       "three five five six";
   }
+
+  .rightDesc {
+    transform: translateX(100%);
+  }
 }
 
 .movingColor {
@@ -80,8 +84,4 @@ code {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-
-.rightDesc {
-  transform: translateX(100%);
 }
