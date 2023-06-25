@@ -97,7 +97,7 @@ const GallerySection = () => {
         >
             <motion.img
                 src="./images/previews/joi4.jpg"
-                alt="Joi ad"
+                alt="Joi billboard"
                 className="bg-cover object-cover h-full w-full"
                 variants={imgVariants}
             />
